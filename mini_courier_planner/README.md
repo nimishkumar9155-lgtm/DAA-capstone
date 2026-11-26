@@ -3,7 +3,7 @@
 **Design & Analysis of Algorithms (ETCCDA302) - Capstone Assignment**
 K.R. Mangalam University, Gurugram - B.Tech CSE
 
-> Student: ______________  Roll no: ______________  Section: ______  Faculty: Dr. Shweta Agarwal
+> Student: Nimish Kumar Roll no: 2501010198  Section: A  Faculty: Dr. Ankita Gupta
 
 A prototype "intelligent courier planner". Given parcels and a road network it
 1. **sorts** parcels by deadline / priority (merge sort),
